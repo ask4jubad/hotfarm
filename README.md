@@ -6,4 +6,9 @@ Hotfarm is a web-based application that can be accessed on cross-platforms i.e M
 License: [Apache License 2.0 (Apache-2.0)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ---
-
+## Team Hotfarm
+ask4jubad - [Jubril Gbolahan ADIGUN](https://linktr.ee/ask4jubad) <br>
+waleoguntayo - [Olawale Oguntayo](https://ng.linkedin.com/in/waleoguntayo) <br>
+quincyjibril - [Quincy Jibril](https://www.behance.net/quincyjibril/moodboards)<br>
+BoluPariola - [Boluwatife Pariola](https://www.companysearchesmadesimple.com/company/uk/14367663/sneaklin-ltd/#people) <br>
+[Korede Joshua]()
