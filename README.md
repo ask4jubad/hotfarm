@@ -11,4 +11,4 @@ ask4jubad - [Jubril Gbolahan ADIGUN](https://linktr.ee/ask4jubad) <br>
 waleoguntayo - [Olawale Oguntayo](https://ng.linkedin.com/in/waleoguntayo) <br>
 quincyjibril - [Quincy Jibril](https://www.behance.net/quincyjibril/moodboards)<br>
 BoluPariola - [Boluwatife Pariola](https://www.companysearchesmadesimple.com/company/uk/14367663/sneaklin-ltd/#people) <br>
-[Korede Joshua]()
+Korede Joshua
